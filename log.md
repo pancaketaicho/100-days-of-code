@@ -5,7 +5,7 @@
 
 **Today's Progress**: Restarted FreeCodeCamp's curriculum, working through Basic HTML and HTML5 and halfway through Basic CSS.
 
-**Thoughts:** It feels good to feel like I'm learning something.
+**Thoughts:** It feels good to feel like I'm learning.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
