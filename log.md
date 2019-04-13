@@ -1,11 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 12, 2019
+### Day 0: April 12, 2019, Friday
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Restarted FreeCodeCamp's curriculum, working through Basic HTML and HTML5 and halfway through Basic CSS.
 
 **Thoughts:** It feels good to feel like I'm learning.
+
+### Day 1: April 13, 2019, Saturday
+
+**Today's Progress**: Continued through the FreeCodeCamp curriculum. Finished Basic CSS and most of Applied Visual Design. Wrapping my mind around the CSS heart shape exercise was fulfilling.
+
+**Thoughts** I doubt whether or not I'll really be able to see this through. For the first time in a long time I'm going to have to resolve to see something through to the end over a long period of time.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
