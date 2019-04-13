@@ -11,7 +11,7 @@
 
 **Today's Progress**: Continued through the FreeCodeCamp curriculum. Finished Basic CSS and most of Applied Visual Design. Wrapping my mind around the CSS heart shape exercise was fulfilling.
 
-**Thoughts** I doubt whether or not I'll really be able to see this through. For the first time in a long time I'm going to have to resolve to see something through to the end over a long period of time.
+**Thoughts:** I doubt whether or not I'll really be able to see this through. For the first time in a long time I'm going to have to resolve to see something through to the end over a long period of time.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
