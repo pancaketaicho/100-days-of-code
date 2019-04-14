@@ -13,6 +13,11 @@
 
 **Thoughts:** I doubt whether or not I'll really be able to see this through. For the first time in a long time I'm going to have to resolve to see something through to the end over a long period of time.
 
+### Day 2: April 14, 2019, Sunday
+
+**Today's Progress**: Finished Applied Visual Design and most of Applied Accessibility in freeCodeCamp.
+
+**Thoughts:** I'm recalling most of the lessons, but I need to try coding each example from scratch by looking only at the end result and then reverse-coding it. I think that will really help my brain wrap around each concept. I also found a nice Medium article from freeCodeCamp about supplements and a study guide for fCC's curriculum. 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
