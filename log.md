@@ -1,23 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 12, 2019, Friday
+### Day 1: April 12, 2019, Friday
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Restarted FreeCodeCamp's curriculum, working through Basic HTML and HTML5 and halfway through Basic CSS.
 
 **Thoughts:** It feels good to feel like I'm learning.
 
-### Day 1: April 13, 2019, Saturday
+### Day 2: April 13, 2019, Saturday
 
 **Today's Progress**: Continued through the FreeCodeCamp curriculum. Finished Basic CSS and most of Applied Visual Design. Wrapping my mind around the CSS heart shape exercise was fulfilling.
 
 **Thoughts:** I doubt whether or not I'll really be able to see this through. For the first time in a long time I'm going to have to resolve to see something through to the end over a long period of time.
 
-### Day 2: April 14, 2019, Sunday
+### Day 3: April 14, 2019, Sunday
 
 **Today's Progress**: Finished Applied Visual Design and most of Applied Accessibility in freeCodeCamp.
 
 **Thoughts:** I'm recalling most of the lessons, but I need to try coding each example from scratch by looking only at the end result and then reverse-coding it. I think that will really help my brain wrap around each concept. I also found a nice Medium article from freeCodeCamp about supplements and a study guide for fCC's curriculum. 
+
+### Day 4: April 15, 2019, Monday
+
+**Today's Progress**: Finished Applied Accessibility, CSS Flexbox, and most of CSS Grid in freeCodeCamp.
+
+**Thoughts:** Today felt kind of slow going. I'm still getting used to the early mornings, but I think I'm also anxious to "get on with it" and move on to more interesting "challenges". To be fair, from a coding perspective, the bite-sized fCC exercises are very easy. Once I finish CSS Grid and move on to the Responsive Web Design Project, I'm going to take time and practice the skills reviewed up to that point by using other sources from a study guide article I found on Medium from fCC, as well as W3 School exercises (HTML and CSS).
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
