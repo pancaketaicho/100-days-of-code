@@ -24,6 +24,19 @@
 **Today's Progress**: Finished Applied Accessibility, CSS Flexbox, and most of CSS Grid in freeCodeCamp.
 
 **Thoughts:** Today felt kind of slow going. I'm still getting used to the early mornings, but I think I'm also anxious to "get on with it" and move on to more interesting "challenges". To be fair, from a coding perspective, the bite-sized fCC exercises are very easy. Once I finish CSS Grid and move on to the Responsive Web Design Project, I'm going to take time and practice the skills reviewed up to that point by using other sources from a study guide article I found on Medium from fCC, as well as W3 School exercises (HTML and CSS).
+
+### Day 5: April 16, 2019, Tuesday
+
+**Today's Progress**: Worked up to the Responsive Web Design projects. I'm going to work through this guide from this fCC Medium article before I move on: “A practical guide to learning front end development for beginners” by Nikita Rudenko https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41
+
+**Thoughts:** I did some more research on W3Schools and their certifications. The concensus seems to be that the certs aren't worth it at all and will most likely get your resume thrown in the trash. FreeCodeCamp seems to have a much better reputation by a landslide, so that takes W3Schools off the table for me. I completed Flexbox Froggy, a web game linked to from the fCC Medium article. It familiarized me more with Flexbox. The final level, level 24, turned my brain inside out for a bit.
+
+### Day 6: April 17, 2019, Wednesday
+
+**Today's Progress**: Started working through the supplemental material from the beginner's front end developer article from the yesterday. Set up VS Code and got familiar with some shortcuts, learned a few terminal commands, and started working through the HTML & CSS tutorial from Interneting is Hard (linked in the aforementioned article).
+
+**Thoughts:** Today was a huge step in setting up my environment. I'd actually had VS Code downloaded from a long time ago (which I believe was from a suggestion on a Traversy Media video), but today I finally started using it in conjunction with the HTML/CSS tutorial from IiH and started developing some muscle memory. I had to use Google to learn the VS/Microsoft versions of commands in the tutorial (and a command line video - which was done on a Mac terminal).
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
