@@ -37,6 +37,12 @@
 
 **Thoughts:** Today was a huge step in setting up my environment. I'd actually had VS Code downloaded from a long time ago (which I believe was from a suggestion on a Traversy Media video), but today I finally started using it in conjunction with the HTML/CSS tutorial from IiH and started developing some muscle memory. I had to use Google to learn the VS/Microsoft versions of commands in the tutorial (and a command line video - which was done on a Mac terminal).
 
+### Day 7: April 18, 2019, Thursday
+
+**Today's Progress**: Continued working through the Interneting is Hard HTML and CSS tutorial on VS Code. Got about halfway through the second chapter. Very slow progress. Felt tired.
+
+**Thoughts:** I didn't feel like I was mentally present while I was working through the tutorial. So far this was the least productive day I think. I'll try not to dwell too much on it. Just don't think too hard about it and move on to tomorrow.
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
