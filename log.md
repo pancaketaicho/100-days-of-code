@@ -43,6 +43,19 @@
 
 **Thoughts:** I didn't feel like I was mentally present while I was working through the tutorial. So far this was the least productive day I think. I'll try not to dwell too much on it. Just don't think too hard about it and move on to tomorrow.
 
+### Day 8: April 19, 2019, Friday
+
+**Today's Progress**: Worked through Interneting is Hard's HTML & CSS tutorial up through chapter 4: Hello, CSS. Learned how to link style sheets. Getting used to having everything working together in a code editor (VS Code).
+
+**Thoughts:** Today felt better than yesterday. It was great to finally learn how to link stylesheets, something that was referenced in fCC's CSS tutorials but never told how to implement (probably because fCC uses a WYSIWYG interface instead of having you do the work through a code editor/IDE).
+
+### Day 9: April 209, 2019, Saturday
+
+**Today's Progress**: Halfway through Interneting is Hard's HTML & CSS tutorial up through chapter 5: CSS Box Model. Late practice and slow progress today. Feeling more comfortable with margins and padding.
+
+**Thoughts:** Today was long and I didn't get started on my daily coding until late, past 11 o'clock. Really tired and struggled to stay focused.
+
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
