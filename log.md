@@ -49,12 +49,17 @@
 
 **Thoughts:** Today felt better than yesterday. It was great to finally learn how to link stylesheets, something that was referenced in fCC's CSS tutorials but never told how to implement (probably because fCC uses a WYSIWYG interface instead of having you do the work through a code editor/IDE).
 
-### Day 9: April 209, 2019, Saturday
+### Day 9: April 20, 2019, Saturday
 
 **Today's Progress**: Halfway through Interneting is Hard's HTML & CSS tutorial up through chapter 5: CSS Box Model. Late practice and slow progress today. Feeling more comfortable with margins and padding.
 
 **Thoughts:** Today was long and I didn't get started on my daily coding until late, past 11 o'clock. Really tired and struggled to stay focused.
 
+### Day 10: April 21, 2019, Sunday
+
+**Today's Progress**: Finished Chapter 5: CSS Box Model of Interneting is Hard's HTML & CSS tutorial and started Chapter 6: CSS Selectors.
+
+**Thoughts:** Today was long and I didn't get started on my daily coding until late, again. I'm really liking the Interneting is Hard tutorial. I think it's a very good and important second pass at the info presented in fCC's Responsive Web Design tutorial. Put another way, fCC's tutorial tells you what an onion is, what a knife is, what a pot and a stove is, etc., and they even show you pictures of them, but IiH actually gets you going hands-on in a kitchen setting up your space, cutting the ingredients, setting the heat, and cooking the food like you would in real life.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
