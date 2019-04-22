@@ -61,6 +61,12 @@
 
 **Thoughts:** Today was long and I didn't get started on my daily coding until late, again. I'm really liking the Interneting is Hard tutorial. I think it's a very good and important second pass at the info presented in fCC's Responsive Web Design tutorial. Put another way, fCC's tutorial tells you what an onion is, what a knife is, what a pot and a stove is, etc., and they even show you pictures of them, but IiH actually gets you going hands-on in a kitchen setting up your space, cutting the ingredients, setting the heat, and cooking the food like you would in real life.
 
+### Day 11: April 22, 2019, Monday
+
+**Today's Progress**: Nearing the end of Chapter 6: CSS Selectors of Interneting is Hard's HTML & CSS tutorial.
+
+**Thoughts:** Not a bad day. Took an important call from my brother during my morning practice, so I had to make up for the lost time before bed. I prefer getting my practice in earlier in the day, before I'm tired. Today's learning was nice. I'm getting more acquainted with selectors, specificity, and syntax, as well as becoming more comfortable with the concepts than I was before. I'm starting to worry that my progress is slow and I'm not putting enough work in. I might need to cut some things back.
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
