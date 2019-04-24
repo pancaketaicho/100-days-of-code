@@ -73,7 +73,7 @@
 
 **Thoughts:** Today was okay. Really busy, but I was able to inch forward with a little progress.
 
-### Day 12: April 23, 2019, Wednesday
+### Day 13: April 23, 2019, Wednesday
 
 **Today's Progress**: Finished Chapter 7: Floats and started working through Chapter 8: Flexbox of IiH's HTML & CSS tutorial.
 
