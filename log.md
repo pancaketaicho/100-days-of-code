@@ -67,17 +67,29 @@
 
 **Thoughts:** Not a bad day. Took an important call from my brother during my morning practice, so I had to make up for the lost time before bed. I prefer getting my practice in earlier in the day, before I'm tired. Today's learning was nice. I'm getting more acquainted with selectors, specificity, and syntax, as well as becoming more comfortable with the concepts than I was before. I'm starting to worry that my progress is slow and I'm not putting enough work in. I might need to cut some things back.
 
-### Day 12: April 22, 2019, Tuesday
+### Day 12: April 23, 2019, Tuesday
 
 **Today's Progress**: Finished Chapter 6: CSS Selectors of IiH's HTML & CSS tutorial and started working through Chapter 7: Floats.
 
 **Thoughts:** Today was okay. Really busy, but I was able to inch forward with a little progress.
 
-### Day 13: April 23, 2019, Wednesday
+### Day 13: April 24, 2019, Wednesday
 
 **Today's Progress**: Finished Chapter 7: Floats and started working through Chapter 8: Flexbox of IiH's HTML & CSS tutorial.
 
 **Thoughts:** Another good day. I'm averaging about a chapter a day with Interneting is Hard's HTML & CSS is Hard tutorial. I'm moving slow and not really producing anything. I'm wanting to finish this tutorial before I move on with freeCodeCamp's Responsive Web Design certifications. I think most of the time I'm just deluding myself, and I think I'm using this 100 Day of Code challenge to rationalize it. Meaning, inside I don't really have a self-starter mentality - I just do a bunch of little tasks that make me feel like I'm accomplishing something (i.e. tutorials) but never produce something original. That being said, though, I do enjoy tutorials because, to put it simply, I'm learning things I didn't know before and am filling gaps in my knowledge. I should probably work faster through the tutorials and solidify my understanding by trying to implement what I've learned in an original project.
+
+### Day 14: April 25, 2019, Thursday
+
+**Today's Progress**: Finished Chapter 8: Flexbox and started working through Chapter 9: Advanced Positioning of IiH's HTML & CSS tutorial.
+
+**Thoughts:** A little bit more progress. I'm still slow and my mind wanders. Already 14 days into this challenge and I feel like I'm just putting off going through with the freeCodeCamp Responsive Web Design projects.
+
+### Day 15: April 26, 2019, Friday
+
+**Today's Progress**: Almost finished Chapter 9: Advanced Positioning of IiH's HTML & CSS tutorial.
+
+**Thoughts:** I ran into an issue at the end of this chapter where my web page doesn't look like the one shown in the tutorial, in the section about position the dropdown menu absolutely in relation to the relatively positioned menu. My code looks just like the tutorial's, but my results are different. This is today's problem.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
