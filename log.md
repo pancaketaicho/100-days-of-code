@@ -91,6 +91,11 @@
 
 **Thoughts:** I ran into an issue at the end of this chapter where my web page doesn't look like the one shown in the tutorial, in the section about position the dropdown menu absolutely in relation to the relatively positioned menu. My code looks just like the tutorial's, but my results are different. This is today's problem.
 
+### Day 16: April 27, 2019, Saturday
+
+**Today's Progress**: Finished Chapter 9: Advanced Positioning and Chapter 10: Responsive Design of IiH's HTML & CSS tutorial.
+
+**Thoughts:** I solved my issue from yesterday. I misplaced a closing tag. Then near the end of the Responsive Design chapter, I ran into another bug that tripped me up, but figured it out. I misplaced a closing tag.
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
