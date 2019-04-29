@@ -96,6 +96,12 @@
 **Today's Progress**: Finished Chapter 9: Advanced Positioning and Chapter 10: Responsive Design of IiH's HTML & CSS tutorial.
 
 **Thoughts:** I solved my issue from yesterday. I misplaced a closing tag. Then near the end of the Responsive Design chapter, I ran into another bug that tripped me up, but figured it out. I misplaced a closing tag.
+
+### Day 17: April 28, 2019, Sunday
+
+**Today's Progress**: Watched a lot of tech/webdev related videos and worked a little bit on Chapter 11: Responsive Images of IiH's HTML & CSS tutorial.
+
+**Thoughts:** I didn't actually do much coding. I just watched a lot of tech videos (Traversy Media in particular) and started a little bit of Chapter 11: Responsive Images. I went to a sleepover with some friends and was away from the computer.
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
