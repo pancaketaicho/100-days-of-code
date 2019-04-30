@@ -109,7 +109,7 @@
 
 **Thoughts:** I finished the responsive web page chapters of IiH's HTML & CSS tutorial. At the end of Chapter 11 the author said that everything covered in the five previous chapters was pretty much all one would need to know to build responsive web pages. Some of the concepts, particularly Flexbox, are a little difficult for me to wrap my head around, so I think I need to work more with the content in the chapters and build some stuff of my own for everything to sink in. I also started learning Git and I downloaded cmder, which has a version on its webpage that comes with Git. And I spent a lot of time trying to work on integrating cmder into VS Code but it doesn't seem to be working. I might switch to Git Bash and integrate that into VS Code, like I saw in a Traversy Media video.
 
-### Day 19: April 30, 2019, Tuesda
+### Day 19: April 30, 2019, Tuesday
 
 **Today's Progress**: Practiced the basics of Git and Git Bash.
 
