@@ -115,6 +115,12 @@
 
 **Thoughts:** Not much actual coding, just learning Git and getting more comfortable with the command line. Got some new skills today.
 
+### Day 20: May 1, 2019, Wednesday
+
+**Today's Progress**: Finished Chapter 12: Semantic HTML of IiH's HTML & CSS tutorial.
+
+**Thoughts:** Getting closer to finishing the HTML & CSS tutorial. I think I've burned out on enthusiasm working (trudging?) through this. I need to produce small successes to get more inspired and motivated. I also need to make a concrete plan with deadlines/goal dates to get serious about structuring my progress. I have to get serious. 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
