@@ -111,9 +111,10 @@
 
 ### Day 19: April 30, 2019, Tuesday
 
-**Today's Progress**: Practiced the basics of Git and Git Bash.
+**Today's Progress**: Practiced the basics of Git and Git Bash. I learned how to push, pull, commit (while using the -m message shortcut), create a repository, and do it all in Git Bash.
 
-**Thoughts:** 
+**Thoughts:** Not much actual coding, just learning Git and getting more comfortable with the command line. Got some new skills today.
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
