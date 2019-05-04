@@ -121,6 +121,18 @@
 
 **Thoughts:** Getting closer to finishing the HTML & CSS tutorial. I think I've burned out on enthusiasm working (trudging?) through this. I need to produce small successes to get more inspired and motivated. I also need to make a concrete plan with deadlines/goal dates to get serious about structuring my progress. I have to get serious. 
 
+### Day 21: May 2, 2019, Thursday
+
+**Today's Progress**: Started Chapter 13: Forms of IiH's HTML & CSS tutorial.
+
+**Thoughts:** Totally losing steam.
+
+### Day 22: May 3, 2019, Thursday
+
+**Today's Progress**: Continued working through Chapter 13: Forms of IiH's HTML & CSS tutorial.
+
+**Thoughts:** I've lost motivation for the most part. I'm just forcing myself to do the daily minimum now. Procrastinating. 
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
