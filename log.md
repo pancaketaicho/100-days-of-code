@@ -131,7 +131,25 @@
 
 **Today's Progress**: Continued working through Chapter 13: Forms of IiH's HTML & CSS tutorial.
 
-**Thoughts:** I've lost motivation for the most part. I'm just forcing myself to do the daily minimum now. Procrastinating. 
+**Thoughts:** I've lost motivation for the most part. I'm just forcing myself to do the daily minimum now. Procrastinating.
+
+### Day 23: May 4, 2019, Friday
+
+**Today's Progress**: Slowly worked through more of Chapter 13: Forms of IiH's HTML & CSS tutorial.
+
+**Thoughts:** Too much procrastinating. This has been a long 10-day break and each day I've been putting off coding until late at night.
+
+### Day 24: May 4, 2019, Saturday
+
+**Today's Progress**: Finished Chapter 13: Forms of IiH's HTML & CSS tutorial and started Chapter 14: Web Typography.
+
+**Thoughts:** Went into the city and hung out with friends. Spent a lot of time socializing this break, which is more fun than forcing myself to sit down and do the work. Didn't get home until 2AM. I was really depressed and feeling really lost. I thought about just not doing my hour and going to bed, but I put my head down, set the timer, and just did it. Why am I doing it?
+
+### Day 25: May 5, 2019, Sunday
+
+**Today's Progress**: Finished Chapter 14: Web Typography and thus completed the Interneting is Hard's HTML & CSS is Hard. It wasn't 'hard' per se, but definitely a lot to practice to get competent in. I also watched more of the net ninja's Git tutorial playlist on YouTube, as per this practical guide for beginner web developers from Medium by freeCodeCamp: https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41
+
+**Thoughts:** A quarter of the way through the challenge and I haven't created anything. Maybe I'm just addicted to checking off checklists. I'm a checker, not a doer.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
