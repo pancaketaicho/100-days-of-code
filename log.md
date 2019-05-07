@@ -151,6 +151,18 @@
 
 **Thoughts:** A quarter of the way through the challenge and I haven't created anything. Maybe I'm just addicted to checking off checklists. I'm a checker, not a doer.
 
+### Day 26: May 5, 2019, Monday
+
+**Today's Progress**: Watched and practiced more of net ninja's Git tutorial.
+
+**Thoughts:** No gas in the tank. Just doing. I feel like I'm in a mental holding pattern where I'm panicking about my future and other existential matters, questioning everything and answering nothing. I'm afraid to quit the streak and go to zero and 'lose' all of my progress, so I just go through the motions. These tutorials are teaching me things, but I wouldn't say I'm doing any 'real' work. Just twiddling my thumbs, checking off the 'I occupied my mind with code related stuff for an hour today' box.
+
+### Day 27: May 5, 2019, Tuesday
+
+**Today's Progress**: Watched and practiced even more of net ninja's Git tutorial, almost finished.
+
+**Thoughts:** Not much changed feelings-wise since yesterday. I'm looking forward to learning how to work with Github and make repos and connect remotely through the terminal.
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
