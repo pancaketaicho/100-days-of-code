@@ -175,19 +175,19 @@
 
 **Thoughts:** Getting the hang of making repos. It's not that hard.
 
-### Day 29: May 10, 2019, Friday
+### Day 30: May 10, 2019, Friday
 
 **Today's Progress**: Completed Traversy Media's HTML crash course for beginners tutorial.
 
 **Thoughts:** There are a lot of tutorials on this playlist (the one mentioned in the Medium article). I'll just work my way through whichever ones seem useful/pertinent to HTML/CSS and responsive website building. Then I'll move on with the Responsive Web Design projects on freeCodeCamp.
 
-### Day 30: May 11, 2019, Saturday
+### Day 31: May 11, 2019, Saturday
 
 **Today's Progress**: Had a long day today. Didn't put in my time until really late at night. Worked through half of Traversy Media's CSS crash course for beginners.
 
 **Thoughts:** I like Traversy's pace. Working along with these tutorials is really nice and certainly doable, especially after having completed the previous tutorials in the Medium fCC Beginning Front-end Developer guide up till now.
 
-### Day 27: May 12, 2019, Sunday
+### Day 32: May 12, 2019, Sunday
 
 **Today's Progress**: Finished Traversy Media's CSS crash course for beginners.
 
