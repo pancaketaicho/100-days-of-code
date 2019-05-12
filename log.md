@@ -151,17 +151,47 @@
 
 **Thoughts:** A quarter of the way through the challenge and I haven't created anything. Maybe I'm just addicted to checking off checklists. I'm a checker, not a doer.
 
-### Day 26: May 5, 2019, Monday
+### Day 26: May 6, 2019, Monday
 
 **Today's Progress**: Watched and practiced more of net ninja's Git tutorial.
 
 **Thoughts:** No gas in the tank. Just doing. I feel like I'm in a mental holding pattern where I'm panicking about my future and other existential matters, questioning everything and answering nothing. I'm afraid to quit the streak and go to zero and 'lose' all of my progress, so I just go through the motions. These tutorials are teaching me things, but I wouldn't say I'm doing any 'real' work. Just twiddling my thumbs, checking off the 'I occupied my mind with code related stuff for an hour today' box.
 
-### Day 27: May 5, 2019, Tuesday
+### Day 27: May 7, 2019, Tuesday
 
 **Today's Progress**: Watched and practiced even more of net ninja's Git tutorial, almost finished.
 
 **Thoughts:** Not much changed feelings-wise since yesterday. I'm looking forward to learning how to work with Github and make repos and connect remotely through the terminal.
+
+### Day 28: May 8, 2019, Wednesday
+
+**Today's Progress**: Watched and practiced even more of net ninja's Git tutorial, almost finished.
+
+**Thoughts:** Still trudging through net ninja's Git tutorial.
+
+### Day 29: May 9, 2019, Thursday
+
+**Today's Progress**: Finished net ninja's Git tutorial.
+
+**Thoughts:** Getting the hang of making repos. It's not that hard.
+
+### Day 29: May 10, 2019, Friday
+
+**Today's Progress**: Completed Traversy Media's HTML crash course for beginners tutorial.
+
+**Thoughts:** There are a lot of tutorials on this playlist (the one mentioned in the Medium article). I'll just work my way through whichever ones seem useful/pertinent to HTML/CSS and responsive website building. Then I'll move on with the Responsive Web Design projects on freeCodeCamp.
+
+### Day 30: May 11, 2019, Saturday
+
+**Today's Progress**: Had a long day today. Didn't put in my time until really late at night. Worked through half of Traversy Media's CSS crash course for beginners.
+
+**Thoughts:** I like Traversy's pace. Working along with these tutorials is really nice and certainly doable, especially after having completed the previous tutorials in the Medium fCC Beginning Front-end Developer guide up till now.
+
+### Day 27: May 12, 2019, Sunday
+
+**Today's Progress**: Finished Traversy Media's CSS crash course for beginners.
+
+**Thoughts:** Feeling good. It's best if I don't let my mind worry too much about the future or try and talk myself out of practicing. Just do the work every day. Keep stepping.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
