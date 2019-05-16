@@ -193,6 +193,30 @@
 
 **Thoughts:** Feeling good. It's best if I don't let my mind worry too much about the future or try and talk myself out of practicing. Just do the work every day. Keep stepping.
 
+### Day 33: May 13, 2019, Monday
+
+**Today's Progress**: Finished Traversy Media's HTML5 Website with Responsive Layout tutorial.
+
+**Thoughts:** I think these tutorials are the most enjoyable thing of the learning process so far. The pace is fast and doesn't belabor the details on things I already understand. And it also shows me how to think aloud as I build something and fix problems as they arise.
+
+### Day 34: May 14, 2019, Tuesday
+
+**Today's Progress**: Started the Responsive Landing Page Using HTML, CSS and a Litte jQuery tutorial.
+
+**Thoughts:** Really good, got about halfway through. At the end of the session, though, I got a text issue on mobile where my results weren't matching the tutorial's. Don't know what's up.
+
+### Day 35: May 15, 2019, Wednesday
+
+**Today's Progress**: Responsive Landing Page Using HTML, CSS and a Litte jQuery tutorial con't.
+
+**Thoughts:** Spent the whole time trying to figure out why my mobile text wasn't fitting the way the tutorial's was. Didn't find an answer, just spent most of the time reviewing the tutorial video and going over my code.
+
+### Day 36: May 15, 2019, Thursday
+
+**Today's Progress**: Finished the Responsive Landing Page Using HTML, CSS and a Litte jQuery tutorial.
+
+**Thoughts:** I couldn't figure out the mobile text issue so I just moved on with the rest of the tutorial. At the end, though, I realized was going on with the mobile version. The resolution of the mobile window in my developer tools on Firefox weren't the same as the tutorial's. After changing my resolution to match, everything fit. But I realized that the page's formatting is a little different depending on the mobile device it's being viewed on. Seems like a whole big can of worms to get a page looking slick on every possible device...
+
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 1: June 27, Monday
