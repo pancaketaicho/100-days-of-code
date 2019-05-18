@@ -211,11 +211,17 @@
 
 **Thoughts:** Spent the whole time trying to figure out why my mobile text wasn't fitting the way the tutorial's was. Didn't find an answer, just spent most of the time reviewing the tutorial video and going over my code.
 
-### Day 36: May 15, 2019, Thursday
+### Day 36: May 16, 2019, Thursday
 
 **Today's Progress**: Finished the Responsive Landing Page Using HTML, CSS and a Litte jQuery tutorial.
 
 **Thoughts:** I couldn't figure out the mobile text issue so I just moved on with the rest of the tutorial. At the end, though, I realized was going on with the mobile version. The resolution of the mobile window in my developer tools on Firefox weren't the same as the tutorial's. After changing my resolution to match, everything fit. But I realized that the page's formatting is a little different depending on the mobile device it's being viewed on. Seems like a whole big can of worms to get a page looking slick on every possible device...
+
+### Day 37: May 17, 2019, Friday
+
+**Today's Progress**: Finished Traversy Media's HTML & CSS Easy Elegant Landing Page with Blur Effect tutorial.
+
+**Thoughts:** Very neat, no real problems working through the tutorial.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
